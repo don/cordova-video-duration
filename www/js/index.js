@@ -22,6 +22,6 @@ var app = {
             navigator.notification.alert('Error code: ' + error.code, null, 'Capture Error');
         };
 
-        navigator.device.capture.captureVideo(captureSuccess, captureError, {limit:5});            
+        navigator.device.capture.captureVideo(captureSuccess, captureError, {duration:5});            
     }
 };
