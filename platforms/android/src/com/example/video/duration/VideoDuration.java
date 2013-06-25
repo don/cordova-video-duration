@@ -17,12 +17,12 @@
        under the License.
  */
 
-package com.example.video.limit;
+package com.example.video.duration;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
 
-public class VideoLimit extends DroidGap
+public class VideoDuration extends DroidGap
 {
     @Override
     public void onCreate(Bundle savedInstanceState)
