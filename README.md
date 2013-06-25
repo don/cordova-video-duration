@@ -1,4 +1,4 @@
-This app demonstrates <a href="https://issues.apache.org/jira/browse/CB-3998">CB-3998</a>
+This app demonstrates <a href="https://issues.apache.org/jira/browse/CB-3998">CB-3998</a> and <a href="https://issues.apache.org/jira/browse/CB-3999">CB-3999</a>
 
 The app should record 5 seconds of video.  The app will fail when cloned from github.
 
