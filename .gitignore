@@ -2,3 +2,5 @@ platforms/android/assets/www
 platforms/android/bin
 platforms/android/gen
 platforms/ios/www
+platforms/ios/VideoDuration.xcodeproj/project.xcworkspace/
+platforms/ios/VideoDuration.xcodeproj/xcuserdata
